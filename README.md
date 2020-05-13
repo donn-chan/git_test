@@ -1,0 +1,1 @@
+First steps in the Odin Project! Learning how to use git \m/
